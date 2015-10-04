@@ -1,7 +1,12 @@
 codigo agregado
 
 codigo agregado en branch 1
+codigo agregado en master
 
-
+mas codigo agregado en master local
 
 codigo agregado en branch 1 local
+codigo agregado en master local
+codigo agregado en master en github
+
+
