@@ -1,5 +1,11 @@
 codigo agregado
 
+<<<<<<< HEAD
 codigo agregado en master
 
 mas codigo agregado en master local
+=======
+
+
+codigo agregado en master en github.com
+>>>>>>> 2b56db29d8816110f02685c017bde7dc3a20e4c2
