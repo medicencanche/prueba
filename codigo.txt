@@ -1,3 +1,5 @@
 Estado estable instalado
 
 cambio 1 master
+
+cambio 2 master
