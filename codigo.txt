@@ -1,1 +1,4 @@
 Estado estable instalado
+
+cambio 1 funcionalidadA
+
